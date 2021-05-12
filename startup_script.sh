@@ -1,5 +1,4 @@
 #!/bin/sh
-
 echo 'export APP_PATH="/home/site/wwwroot"' >> ~/.bashrc
 echo 'cd $APP_PATH' >> ~/.bashrc
 
